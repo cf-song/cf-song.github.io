@@ -9,14 +9,14 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Publications"
-    url: "/#-selected-publications"
-
   - title: "Pre-Prints"
     url: "/#-pre-prints"
 
-  - title: "Experiences"
-    url: "/#-experiences"
+  - title: "Publications"
+    url: "/#-selected-publications"
 
-  - title: "Collaborators"
-    url: "/#-collaborators"
+  - title: "Invited Talks"
+    url: "/#-talks"
+
+  - title: "Academic Services"
+    url: "/#-services"
