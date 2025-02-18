@@ -32,13 +32,13 @@ Please feel free to contact me via [Email](songchunfeng@pjlab.org.cn) for possib
 - *2022.06*: &nbsp; One papers accepted by IEEE TPAMI.
 
 # 📄 Pre-Prints 
-(* Equal contribution, † Corresponding authors)
+(†Equal contribution, \*Corresponding authors)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/arxiv25-mindalign.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
 **MindAligner: Explicit Brain Functional Alignment for Cross-Subject Visual Decoding from Limited fMRI Data**
 [[Paper](https://arxiv.org/abs/2502.05034)]
 
-Yuqin Dai†, Zhouheng Yao†, **Chunfeng Song**, Qihao Zheng, Weijian Mai, Kunyu Peng, Shuai Lu, Wanli Ouyang, Jian Yang*, Jiamin Wu*
+Yuqin Dai†, Zhouheng Yao†, **Chunfeng Song**, Qihao Zheng, Weijian Mai, Kunyu Peng, Shuai Lu, Wanli Ouyang, Jian Yang\*, Jiamin Wu\*
 
 </div>
 </div>
@@ -49,7 +49,7 @@ Yuqin Dai†, Zhouheng Yao†, **Chunfeng Song**, Qihao Zheng, Weijian Mai, Kuny
 [[Paper](https://www.biorxiv.org/content/10.1101/2024.11.27.625336v1)]
 [[Code](https://github.com/ddd9898/UniSPAC)]
 
-Juntao Deng†, Jiamin Wu†, Changmin Chen, Qihao Zheng, Zhaoxiang Zhang, Jingpeng Wu*, Wanli Ouyang*, **Chunfeng Song\***
+Juntao Deng†, Jiamin Wu†, Changmin Chen, Qihao Zheng, Zhaoxiang Zhang, Jingpeng Wu\*, Wanli Ouyang\*, **Chunfeng Song\***
 
 </div>
 </div>
@@ -59,19 +59,19 @@ Juntao Deng†, Jiamin Wu†, Changmin Chen, Qihao Zheng, Zhaoxiang Zhang, Jingp
 **Neuro-3D: Towards 3D Visual Decoding from EEG Signals**
 [[Paper](https://arxiv.org/abs/2411.12248)]
 
-Zhanqiang Guo†, Jiamin Wu†, Yonghao Song, Weijian Mai, Qihao Zheng, Wanli Ouyang*, **Chunfeng Song\***
+Zhanqiang Guo†, Jiamin Wu†, Yonghao Song, Weijian Mai, Qihao Zheng, Wanli Ouyang\*, **Chunfeng Song\***
 
 </div>
 </div>
 
 # 📝 Selected Publications
-(* Equal contribution, † Corresponding authors)
+(†Equal contribution, \*Corresponding authors)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI ORAL 2025</div><img src='images/aaai25-mivae.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
 **Multi-Modal Latent Variables for Cross-Individual Primary Visual Cortex Modeling and Analysis**
 [[Paper](https://arxiv.org/abs/2412.14536)]
 
-Yu Zhu, Bo Lei, **Chunfeng Song***, Wanli Ouyang, Shan Yu, Tiejun Huang
+Yu Zhu, Bo Lei, **Chunfeng Song\***, Wanli Ouyang, Shan Yu\*, Tiejun Huang
 
 Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**) 2025
 </div>
@@ -84,7 +84,7 @@ Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**) 2025
 [[Paper](https://ieeexplore.ieee.org/abstract/document/10202580)]
 [[Code](https://github.com/developfeng/BCM)]
 
-**Chunfeng Song**, Wanli Ouyang, Zhaoxiang Zhang*
+**Chunfeng Song**, Wanli Ouyang, Zhaoxiang Zhang\*
 
 IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**) 2023
 </div>
@@ -96,7 +96,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**) 2023
 [[Paper](https://ieeexplore.ieee.org/abstract/document/9756889)]
 [[Code](https://github.com/LuckyDC/generalizing-reid-improved)]
 
-Chuanchen Luo, **Chunfeng Song**, Zhaoxiang Zhang*
+Chuanchen Luo, **Chunfeng Song**, Zhaoxiang Zhang\*
 
 IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**) 2023
 </div>
@@ -108,7 +108,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**) 2023
 [[Paper](https://ieeexplore.ieee.org/abstract/document/9796582)]
 [[Dataset](https://cstr.cn/31253.11.sciencedb.07226)]
 
-**Chunfeng Song†**, Yongzhen Huang†, Weining Wang, and Liang Wang*
+**Chunfeng Song†**, Yongzhen Huang†, Weining Wang, and Liang Wang\*
 
 IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**) 2022
 </div>
@@ -120,7 +120,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**) 2022
 [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zou_The_Devil_Is_in_the_Details_Window-Based_Attention_for_Image_CVPR_2022_paper.html)]
 [[Code](https://github.com/Googolxx/STF)]
 
-Renjie Zou, **Chunfeng Song**, and Zhaoxiang Zhang*
+Renjie Zou, **Chunfeng Song**, and Zhaoxiang Zhang\*
 
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**) 2022
 </div>
@@ -132,7 +132,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**) 2022
 [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320319302912)]
 [[Code](https://github.com/developfeng/GaitNet)]
 
-**Chunfeng Song**, Yongzhen Huang, Yan Huang, Ning Jia, and Liang Wang*
+**Chunfeng Song**, Yongzhen Huang, Yan Huang, Ning Jia, and Liang Wang\*
 
 Pattern Recognition (**PR**) 2022
 </div>
@@ -144,7 +144,7 @@ Pattern Recognition (**PR**) 2022
 [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Song_Box-Driven_Class-Wise_Region_Masking_and_Filling_Rate_Guided_Loss_for_CVPR_2019_paper.html)]
 [[Code](https://github.com/developfeng/BCM)]
 
-**Chunfeng Song**, Yan Huang, Wanli Ouyang, and Liang Wang*
+**Chunfeng Song**, Yan Huang, Wanli Ouyang, and Liang Wang\*
 
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**) 2019
 </div>
@@ -168,7 +168,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**) 2018
 [[Paper](https://nlpr.ia.ac.cn/2013papers/gjhy/gh35.pdf)]
 [[Code](https://github.com/developfeng/DeepClustering)]
 
-**Chunfeng Song**, Yan Huang, Wanli Ouyang, and Liang Wang
+**Chunfeng Song**, Feng Liu, Yongzhen Huang, Liang Wang, Tieniu Tan
 
  Iberoamerican Congress on Pattern Recognition (**CIAPR**) 2013 *My first paper
 </div>
