@@ -30,7 +30,7 @@ Please feel free to contact me
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2023</div><img src='images/reid-pami23.png' width="300" height="150"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2023</div><img src='../images/reid-pami23.png' width="300" height="150"></div></div>
 <div class='paper-box-text' markdown="1"> 
 **Learning to Adapt Across Dual Discrepancy for Cross-Domain Person Re-Identification**
 [[Paper]([https://link.springer.com/article/10.1007/s11263-021-01569-2](https://ieeexplore.ieee.org/abstract/document/9756889))]
