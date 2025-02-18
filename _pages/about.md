@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🎓 About Me
-Chunfeng Song is currently a Research Scientist at [Shanghai AI Laboratory](https://www.shlab.org.cn), working closely with [Prof. Wanli Ouyang](https://wlouyang.github.io). Before that, he was an Associate Professor with the Center for Research on Intelligent Perception and Computing ([CRIPAC](http://www.cripac.ia.ac.cn)), National Laboratory of Pattern Recognition ([NLPR](http://nlpr-web.ia.ac.cn)), Institute of Automation, Chinese Academy of Sciences ([CASIA](http://www.ia.ac.cn)), working with [Prof. Tienniu Tan](http://cripac.ia.ac.cn/CN/column/item83.shtml) and [Prof. Zhaoxiang Zhang](http://zhaoxiangzhang.net). He received the PhD degree from [CASIA](http://www.ia.ac.cn), and the University of Chinese Academy of Sciences ([UCAS](https://www.ucas.ac.cn)) in 2020, under the supervision of [Prof. Liang Wang](http://cripac.ia.ac.cn/CN/column/item127.shtml). He has published more than 30 conference and journal papers such as IEEE TPAMI, TIP, IJCV, PR, CVPR, ECCV, AAAI. His current research focuses on AI for science, especially Neuroscience and Brain science.
+Chunfeng Song is currently a Research Scientist at [Shanghai AI Laboratory](https://www.shlab.org.cn), working closely with [Prof. Wanli Ouyang](https://wlouyang.github.io). Before that, he was an Associate Professor with the Center for Research on Intelligent Perception and Computing ([CRIPAC](http://www.cripac.ia.ac.cn)), National Laboratory of Pattern Recognition ([NLPR](http://nlpr-web.ia.ac.cn)), Institute of Automation, Chinese Academy of Sciences ([CASIA](http://www.ia.ac.cn)), working with [Prof. Tieniu Tan](http://cripac.ia.ac.cn/CN/column/item83.shtml) and [Prof. Zhaoxiang Zhang](http://zhaoxiangzhang.net). He received the PhD degree from [CASIA](http://www.ia.ac.cn), and the University of Chinese Academy of Sciences ([UCAS](https://www.ucas.ac.cn)) in 2020, under the supervision of [Prof. Liang Wang](http://cripac.ia.ac.cn/CN/column/item127.shtml). He has published more than 30 conference and journal papers such as IEEE TPAMI, TIP, IJCV, PR, CVPR, ECCV, AAAI. His current research focuses on AI for science, especially Neuroscience and Brain science.
 
 # 🔈 Join Us
 Please feel free to contact me via [Email](songchunfeng@pjlab.org.cn) for possible cooperation if you are interested in our projects or **AI4Neuroscience** research!
@@ -162,7 +162,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**) 2018
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIAPR 2013</div><img src='images/ciapr13-dae.png' width="190" height="90"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIARP 2013</div><img src='images/ciapr13-dae.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
 **Auto-encoder Based Data Clustering**
 [[Paper](https://nlpr.ia.ac.cn/2013papers/gjhy/gh35.pdf)]
@@ -170,7 +170,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**) 2018
 
 **Chunfeng Song**, Feng Liu, Yongzhen Huang, Liang Wang, Tieniu Tan
 
- Iberoamerican Congress on Pattern Recognition (**CIAPR**) 2013 *My first paper
+ Iberoamerican Congress on Pattern Recognition (**CIARP**) 2013 \*My first paper
 </div>
 </div>
 
