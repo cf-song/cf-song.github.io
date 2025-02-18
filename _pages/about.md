@@ -174,11 +174,9 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**) 2018
 </div>
 
 # 💬 Invited Talks
-- *2021.06*
+- *2018.04*: Mask-guided Contrastive Attention Model for Person Re-Identification, [IGTA Top-Conference Talk](https://cloud.tencent.com/developer/article/1102461)
 
-# 📖 Experiences
-* Assistant Professor
-  Date: 2024.08 ~ (now)
-  
-# 🌏 Collaborators
-I am honored to have a deep collaboration with:
+# 🌏 Academic Services
+- **Conference Reviewer**: CVPR, ICCV, ECCV, NeurIPS, ICLR, ICML, AAAI, PRCV
+- **Journal Reviewer**: TPAMI, IJCV, TIP, TAI, TNNLS, TMM, TIFS, PR, 自动化学报
+- **执行主席**：[2024浦江AI学术年会-科学智能的边界专题论坛](https://www.shlab.org.cn/event/detail/84)
