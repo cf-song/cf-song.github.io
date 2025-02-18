@@ -28,11 +28,20 @@ Please feel free to contact me
 - *2023.07*: &nbsp; One papers accepted by IEEE TPAMI.
 - *2022.06*: &nbsp; One papers accepted by IEEE TPAMI.
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2023</div><img src='images/reid-pami23.png' width="190" height="90"></div></div>
+<div class='paper-box-text' markdown="1"> 
+**Learning to Adapt Across Dual Discrepancy for Cross-Domain Person Re-Identification**
+[[Paper]([https://link.springer.com/article/10.1007/s11263-021-01569-2](https://ieeexplore.ieee.org/abstract/document/9756889))]
+[[Code](https://github.com/LuckyDC/generalizing-reid-improved)]
 
+Chuanchen Luo, **Chunfeng Song**, Zhaoxiang Zhang
+
+IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**) 2023
+
+</div>
+</div>
 
 # 💬 Invited Talks
 - *2021.06*
