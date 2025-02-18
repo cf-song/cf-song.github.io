@@ -24,7 +24,7 @@ author:
   name             : "Chunfeng Song \n 宋纯锋"
   avatar           : "images/scf.png"
   bio              : "Research Scientist"
-  location         : "Shanghai, China"
+  location         : # "Shanghai, China"
   employer         : "Shanghai AI Lab"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=k-tibewAAAAJ"
