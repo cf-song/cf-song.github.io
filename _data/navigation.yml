@@ -16,7 +16,7 @@ main:
     url: "/#-selected-publications"
 
   - title: "Invited Talks"
-    url: "/#-talks"
+    url: "/#-invited-talks"
 
   - title: "Academic Services"
-    url: "/#-services"
+    url: "/#-academic-services"
