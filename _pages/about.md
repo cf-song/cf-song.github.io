@@ -102,7 +102,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**) 2023
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2022</div><img src='images/pami22-casiae' width="190" height="90"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2022</div><img src='images/pami22-casiae.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
 **CASIA-E: A Large Comprehensive Dataset for Gait Recognition**
 [[Paper](https://ieeexplore.ieee.org/abstract/document/9796582)]
