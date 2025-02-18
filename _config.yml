@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Chunfeng Song"
-description              : "Chunfeng Song's homepage. "
+description              : ""
 repository               : "cf-song/cf-song.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Chunfeng Song \n 宋纯锋"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Researcher"
-  location         : "Beijing, China"
+  bio              : "Research Scientist"
+  location         : "Shanghai, China"
   employer         : "Shanghai AI Lab"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=k-tibewAAAAJ"
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "developfeng"
   google_plus      :
   keybase          :
   instagram        :
