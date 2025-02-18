@@ -18,10 +18,13 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🎓 About Me
-Chunfeng Song is currently a Research Scientist at [Shanghai AI Laboratory](https://www.shlab.org.cn), working with Prof. Wanli Ouyang. Before that, he was an Associate Professor with the Center for Research on Intelligent Perception and Computing (CRIPAC), National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Sciences (CASIA), working with Prof. Tienniu Tan and Prof. Zhaoxiang Zhang. He received the PhD degree from Institute of Automation, Chinese Academy of Sciences (CASIA), and the University of Chinese Academy of Sciences (UCAS) in 2020, under the supervision of Prof. Liang Wang. He has published more than 30 conference and journal papers such as IEEE TPAMI, TIP, IJCV, PR, CVPR, ECCV, AAAI. His current research focuses on AI for science, especially Neuroscience and Brain science.
+Chunfeng Song is currently a Research Scientist at [Shanghai AI Laboratory](https://www.shlab.org.cn), working closely with [Prof. Wanli Ouyang](https://wlouyang.github.io). Before that, he was an Associate Professor with the Center for Research on Intelligent Perception and Computing ([CRIPAC](http://www.cripac.ia.ac.cn)), National Laboratory of Pattern Recognition ([NLPR](http://nlpr-web.ia.ac.cn)), Institute of Automation, Chinese Academy of Sciences ([CASIA](http://www.ia.ac.cn)), working with [Prof. Tienniu Tan](http://cripac.ia.ac.cn/CN/column/item83.shtml) and [Prof. Zhaoxiang Zhang](http://zhaoxiangzhang.net). He received the PhD degree from [CASIA](http://www.ia.ac.cn), and the University of Chinese Academy of Sciences ([UCAS](https://www.ucas.ac.cn)) in 2020, under the supervision of [Prof. Liang Wang](http://cripac.ia.ac.cn/CN/column/item127.shtml). He has published more than 30 conference and journal papers such as IEEE TPAMI, TIP, IJCV, PR, CVPR, ECCV, AAAI. His current research focuses on AI for science, especially Neuroscience and Brain science.
 
 # 🔈 Join Us
-Please feel free to contact me
+Please feel free to contact me via [Email](songchunfeng@pjlab.org.cn) for possible cooperation if you are interested in our projects or **AI4Neuroscience** research!
+
+随时欢迎对**科学智能、神经科学、脑机接口**等方向感兴趣的学者/研究生/本科生/实习生通过[邮件](songchunfeng@pjlab.org.cn)联系交流与合作！
+
 
 # 🔥 News
 - *2024.12*: &nbsp; One papers accepted by AAAI2025.
@@ -29,17 +32,7 @@ Please feel free to contact me
 - *2022.06*: &nbsp; One papers accepted by IEEE TPAMI.
 
 # 📄 Pre-Prints 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv 2024</div><img src='images/reid-pami23.png' width="190" height="90"></div></div>
-<div class='paper-box-text' markdown="1"> 
-**UniSPAC: A Unified Segmentation Framework for Proofreading and Annotation in Connectomics**
-[[Paper](https://www.biorxiv.org/content/10.1101/2024.11.27.625336v1)]
-[[Code](https://github.com/ddd9898/UniSPAC)]
-
-Juntao Deng†, Jiamin Wu†, Changmin Chen, Qihao Zheng, Zhaoxiang Zhang, Jingpeng Wu*, Wanli Ouyang*, **Chunfeng Song***
-
-</div>
-</div>
-
+(* Equal contribution, † Corresponding authors)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/reid-pami23.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
 **MindAligner: Explicit Brain Functional Alignment for Cross-Subject Visual Decoding from Limited fMRI Data**
@@ -50,7 +43,29 @@ Yuqin Dai†, Zhouheng Yao†, **Chunfeng Song**, Qihao Zheng, Weijian Mai, Kuny
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv 2024</div><img src='images/reid-pami23.png' width="190" height="90"></div></div>
+<div class='paper-box-text' markdown="1"> 
+**UniSPAC: A Unified Segmentation Framework for Proofreading and Annotation in Connectomics**
+[[Paper](https://www.biorxiv.org/content/10.1101/2024.11.27.625336v1)]
+[[Code](https://github.com/ddd9898/UniSPAC)]
+
+Juntao Deng†, Jiamin Wu†, Changmin Chen, Qihao Zheng, Zhaoxiang Zhang, Jingpeng Wu*, Wanli Ouyang*, **Chunfeng Song\***
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/reid-pami23.png' width="190" height="90"></div></div>
+<div class='paper-box-text' markdown="1"> 
+**euro-3D: Towards 3D Visual Decoding from EEG Signals**
+[[Paper](https://arxiv.org/abs/2411.12248)]
+
+Zhanqiang Guo†, Jiamin Wu†, Yonghao Song, Weijian Mai, Qihao Zheng, Wanli Ouyang*, **Chunfeng Song\***
+
+</div>
+</div>
+
 # 📝 Selected Publications
+(* Equal contribution, † Corresponding authors)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI ORAL 2025</div><img src='images/reid-pami23.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
 **Multi-Modal Latent Variables for Cross-Individual Primary Visual Cortex Modeling and Analysis**
