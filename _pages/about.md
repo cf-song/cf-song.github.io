@@ -31,7 +31,7 @@ Please feel free to contact me
 # 📝 Selected Publications 
 
 <div><div><div><div>TPAMI 2023</div><img src="../images/reid-pami23.png" width="300" height="150"></div></div>
-<div> 
+<div class='paper-box-text' markdown="1"> 
 **Learning to Adapt Across Dual Discrepancy for Cross-Domain Person Re-Identification**
 [[Paper](https://ieeexplore.ieee.org/abstract/document/9756889)]
 [[Code](https://github.com/LuckyDC/generalizing-reid-improved)]
@@ -44,7 +44,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**) 2023
 </div>
 
 <div><div><div><div>TPAMI 2023</div><img src="../images/reid-pami23.png" width="300" height="150"></div></div>
-<div> 
+<div class='paper-box-text' markdown="1"> 
 **Weakly Supervised Semantic Segmentation via Box-driven Masking and Filling Rate Shifting**
 [[Paper](https://ieeexplore.ieee.org/abstract/document/10202580)]
 [[Code](https://github.com/developfeng/BCM)]
@@ -57,7 +57,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**) 2023
 </div>
 
 <div><div><div><div>TPAMI 2022</div><img src="../images/reid-pami23.png" width="300" height="150"></div></div>
-<div> 
+<div class='paper-box-text' markdown="1"> 
 **CASIA-E: A Large Comprehensive Dataset for Gait Recognition**
 [[Paper](https://ieeexplore.ieee.org/abstract/document/9796582)]
 [[Dataset](https://cstr.cn/31253.11.sciencedb.07226)]
@@ -70,7 +70,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**) 2022
 </div>
 
 <div><div><div><div>CVPR 2022</div><img src="../images/reid-pami23.png" width="300" height="150"></div></div>
-<div> 
+<div class='paper-box-text' markdown="1"> 
 **The devil is in the details: Window-based attention for image compression**
 [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zou_The_Devil_Is_in_the_Details_Window-Based_Attention_for_Image_CVPR_2022_paper.html)]
 [[Code](https://github.com/Googolxx/STF)]
@@ -83,7 +83,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**) 2022
 </div>
 
 <div><div><div><div>PR 2019</div><img src="../images/reid-pami23.png" width="300" height="150"></div></div>
-<div> 
+<div class='paper-box-text' markdown="1"> 
 **GaitNet: An End-to-end Network for Video-based Human Identification**
 [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320319302912)]
 [[Code](https://github.com/developfeng/GaitNet)]
@@ -96,7 +96,7 @@ Pattern Recognition (**PR**) 2022
 </div>
 
 <div><div><div><div>CVPR 2019</div><img src="../images/reid-pami23.png" width="300" height="150"></div></div>
-<div> 
+<div class='paper-box-text' markdown="1"> 
 **Box-driven Class-wise Region Masking and Filling Rate Guided Loss for Weakly Supervised Semantic Segmentation**
 [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Song_Box-Driven_Class-Wise_Region_Masking_and_Filling_Rate_Guided_Loss_for_CVPR_2019_paper.html)]
 [[Code](https://github.com/developfeng/BCM)]
@@ -109,7 +109,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**) 2019
 </div>
 
 <div><div><div><div>CVPR 2018</div><img src="../images/reid-pami23.png" width="300" height="150"></div></div>
-<div> 
+<div class='paper-box-text' markdown="1"> 
 **Mask-guided Contrastive Attention Model for Person Re-Identification**
 [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Song_Mask-Guided_Contrastive_Attention_CVPR_2018_paper.html)]
 [[Code](https://github.com/developfeng/MGCAM)]
@@ -122,7 +122,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**) 2018
 </div>
 
 <div><div><div><div>CIAPR 2013</div><img src="../images/reid-pami23.png" width="300" height="150"></div></div>
-<div> 
+<div class='paper-box-text' markdown="1"> 
 **Auto-encoder Based Data Clustering**
 [[Paper](https://nlpr.ia.ac.cn/2013papers/gjhy/gh35.pdf)]
 [[Code](https://github.com/developfeng/DeepClustering)]
