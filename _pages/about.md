@@ -33,7 +33,7 @@ Please feel free to contact me via [Email](songchunfeng@pjlab.org.cn) for possib
 
 # 📄 Pre-Prints 
 (* Equal contribution, † Corresponding authors)
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/reid-pami23.png' width="190" height="90"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/arxiv25-mindalign.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
 **MindAligner: Explicit Brain Functional Alignment for Cross-Subject Visual Decoding from Limited fMRI Data**
 [[Paper](https://arxiv.org/abs/2502.05034)]
@@ -43,7 +43,7 @@ Yuqin Dai†, Zhouheng Yao†, **Chunfeng Song**, Qihao Zheng, Weijian Mai, Kuny
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv 2024</div><img src='images/reid-pami23.png' width="190" height="90"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv 2024</div><img src='images/bioxiv24-unispac.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
 **UniSPAC: A Unified Segmentation Framework for Proofreading and Annotation in Connectomics**
 [[Paper](https://www.biorxiv.org/content/10.1101/2024.11.27.625336v1)]
@@ -54,9 +54,9 @@ Juntao Deng†, Jiamin Wu†, Changmin Chen, Qihao Zheng, Zhaoxiang Zhang, Jingp
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/reid-pami23.png' width="190" height="90"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/arxiv24-neuro3d.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
-**euro-3D: Towards 3D Visual Decoding from EEG Signals**
+**Neuro-3D: Towards 3D Visual Decoding from EEG Signals**
 [[Paper](https://arxiv.org/abs/2411.12248)]
 
 Zhanqiang Guo†, Jiamin Wu†, Yonghao Song, Weijian Mai, Qihao Zheng, Wanli Ouyang*, **Chunfeng Song\***
@@ -66,7 +66,7 @@ Zhanqiang Guo†, Jiamin Wu†, Yonghao Song, Weijian Mai, Qihao Zheng, Wanli Ou
 
 # 📝 Selected Publications
 (* Equal contribution, † Corresponding authors)
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI ORAL 2025</div><img src='images/reid-pami23.png' width="190" height="90"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI ORAL 2025</div><img src='images/aaai25-mivae.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
 **Multi-Modal Latent Variables for Cross-Individual Primary Visual Cortex Modeling and Analysis**
 [[Paper](https://arxiv.org/abs/2412.14536)]
@@ -77,19 +77,8 @@ Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**) 2025
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2023</div><img src='images/reid-pami23.png' width="190" height="90"></div></div>
-<div class='paper-box-text' markdown="1"> 
-**Learning to Adapt Across Dual Discrepancy for Cross-Domain Person Re-Identification**
-[[Paper](https://ieeexplore.ieee.org/abstract/document/9756889)]
-[[Code](https://github.com/LuckyDC/generalizing-reid-improved)]
 
-Chuanchen Luo, **Chunfeng Song**, Zhaoxiang Zhang*
-
-IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**) 2023
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2023</div><img src='images/reid-pami23.png' width="190" height="90"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2023</div><img src='images/pami23-frs.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
 **Weakly Supervised Semantic Segmentation via Box-driven Masking and Filling Rate Shifting**
 [[Paper](https://ieeexplore.ieee.org/abstract/document/10202580)]
@@ -101,7 +90,19 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**) 2023
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2022</div><img src='images/reid-pami23.png' width="190" height="90"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2023</div><img src='images/pami23-reid.png' width="190" height="90"></div></div>
+<div class='paper-box-text' markdown="1"> 
+**Learning to Adapt Across Dual Discrepancy for Cross-Domain Person Re-Identification**
+[[Paper](https://ieeexplore.ieee.org/abstract/document/9756889)]
+[[Code](https://github.com/LuckyDC/generalizing-reid-improved)]
+
+Chuanchen Luo, **Chunfeng Song**, Zhaoxiang Zhang*
+
+IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**) 2023
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2022</div><img src='images/pami22-casiae' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
 **CASIA-E: A Large Comprehensive Dataset for Gait Recognition**
 [[Paper](https://ieeexplore.ieee.org/abstract/document/9796582)]
@@ -113,7 +114,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**) 2022
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/reid-pami23.png' width="190" height="90"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/cvpr22-sft.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
 **The devil is in the details: Window-based attention for image compression**
 [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zou_The_Devil_Is_in_the_Details_Window-Based_Attention_for_Image_CVPR_2022_paper.html)]
@@ -125,7 +126,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**) 2022
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2019</div><img src='images/reid-pami23.png' width="190" height="90"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2019</div><img src='images/pr19-gaitnet.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
 **GaitNet: An End-to-end Network for Video-based Human Identification**
 [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320319302912)]
@@ -137,7 +138,7 @@ Pattern Recognition (**PR**) 2022
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2019</div><img src='images/reid-pami23.png' width="190" height="90"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2019</div><img src='images/cvpr19-bcm.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
 **Box-driven Class-wise Region Masking and Filling Rate Guided Loss for Weakly Supervised Semantic Segmentation**
 [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Song_Box-Driven_Class-Wise_Region_Masking_and_Filling_Rate_Guided_Loss_for_CVPR_2019_paper.html)]
@@ -149,7 +150,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**) 2019
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2018</div><img src='images/reid-pami23.png' width="190" height="90"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2018</div><img src='images/cvpr18-mgcam.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
 **Mask-guided Contrastive Attention Model for Person Re-Identification**
 [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Song_Mask-Guided_Contrastive_Attention_CVPR_2018_paper.html)]
@@ -161,7 +162,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**) 2018
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIAPR 2013</div><img src='images/reid-pami23.png' width="190" height="90"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIAPR 2013</div><img src='images/ciapr13-dae.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
 **Auto-encoder Based Data Clustering**
 [[Paper](https://nlpr.ia.ac.cn/2013papers/gjhy/gh35.pdf)]
@@ -169,7 +170,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**) 2018
 
 **Chunfeng Song**, Yan Huang, Wanli Ouyang, and Liang Wang
 
- Iberoamerican Congress on Pattern Recognition (**CIAPR**) 2013
+ Iberoamerican Congress on Pattern Recognition (**CIAPR**) 2013 *My first paper
 </div>
 </div>
 
