@@ -175,9 +175,11 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**) 2018
 </div>
 
 # 💬 Invited Talks
+- *2025.02*: 驱动神经科学的人工智能, [中科院脑智卓越中心AI for Neuroscience Talk](http://www.ion.ac.cn/xwen/zhxw/2025/202502/t20250224_7533334.html)
 - *2018.04*: Mask-guided Contrastive Attention Model for Person Re-Identification, [IGTA Top-Conference Talk](https://cloud.tencent.com/developer/article/1102461)
 
 # 🌏 Academic Services
 - **Conference Reviewer**: CVPR, ICCV, ECCV, NeurIPS, ICLR, ICML, AAAI, PRCV
 - **Journal Reviewer**: TPAMI, IJCV, TIP, TAI, TNNLS, TMM, TIFS, PR, 自动化学报
+- **Membership**: IEEE Senior Member, CCF/CAAI/CSIG/CNS Member
 - **执行主席**：[2024浦江AI学术年会-科学智能的边界专题论坛](https://www.shlab.org.cn/event/detail/84)
