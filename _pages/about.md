@@ -27,10 +27,10 @@ Please feel free to contact me via [Email](songchunfeng@pjlab.org.cn) for possib
 
 
 # 🔥 News
-- *2025.02*: &nbsp; One papers accepted by CVPR2025.
-- *2024.12*: &nbsp; One papers accepted by AAAI2025.
-- *2023.07*: &nbsp; One papers accepted by IEEE TPAMI.
-- *2022.06*: &nbsp; One papers accepted by IEEE TPAMI.
+- *2025.02*: &nbsp; One paper accepted by **CVPR2025**.
+- *2024.12*: &nbsp; One paper accepted by **AAAI2025**.
+- *2023.07*: &nbsp; One paper accepted by **IEEE TPAMI**.
+- *2022.06*: &nbsp; One paper accepted by **IEEE TPAMI**.
 
 # 📄 Pre-Prints 
 (†Equal contribution, \*Corresponding authors)
