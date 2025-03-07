@@ -178,6 +178,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**) 2018
 
 # 💬 Invited Talks
 - *2025.02*: 驱动神经科学的人工智能, [中科院脑智卓越中心AI for Neuroscience Talk](http://www.ion.ac.cn/xwen/zhxw/2025/202502/t20250224_7533334.html)
+- *2025.02*: 大模型在神经科学应用中的进展与挑战, [GDC2025-全球开发者先锋大会](https://mp.weixin.qq.com/s/Tbhb2u9AWuM_gYQsH60HTg)
 - *2018.04*: Mask-guided Contrastive Attention Model for Person Re-Identification, [IGTA Top-Conference Talk](https://cloud.tencent.com/developer/article/1102461)
 
 # 🌏 Academic Services
