@@ -59,6 +59,8 @@ Juntao Deng†, Jiamin Wu†, Changmin Chen, Qihao Zheng, Zhaoxiang Zhang, Jingp
 <div class='paper-box-text' markdown="1"> 
 **Neuro-3D: Towards 3D Visual Decoding from EEG Signals**
 [[Paper](https://arxiv.org/abs/2411.12248)]
+[[Code](https://github.com/gzq17/neuro-3D)]
+[[Dataset](https://huggingface.co/datasets/guozq21/neuro-3D)]
 
 Zhanqiang Guo†, Jiamin Wu†, Yonghao Song, Weijian Mai, Qihao Zheng, Wanli Ouyang\*, **Chunfeng Song\***
 
