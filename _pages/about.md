@@ -27,13 +27,26 @@ Please feel free to contact me via [Email](songchunfeng@pjlab.org.cn) for possib
 
 
 # 🔥 News
-- *2025.02*: &nbsp; One paper accepted by **CVPR2025**.
-- *2024.12*: &nbsp; One paper accepted by **AAAI2025**.
+- *2025.05*: &nbsp; Two paper accepted by **ICML-2025**.
+- *2025.02*: &nbsp; One paper accepted by **CVPR-2025**.
+- *2024.12*: &nbsp; One paper accepted by **AAAI-2025**.
 - *2023.07*: &nbsp; One paper accepted by **IEEE TPAMI**.
 - *2022.06*: &nbsp; One paper accepted by **IEEE TPAMI**.
 
 # 📄 Pre-Prints 
 (†Equal contribution, \*Corresponding authors)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/pnba-icml2025.png' width="190" height="90"></div></div>
+<div class='paper-box-text' markdown="1"> 
+**Neural Representational Consistency Emerges from Probabilistic Neural-Behavioral Representation Alignment**
+[[Paper](https://arxiv.org/abs/2505.04331)]
+[[Code](https://github.com/zhuyu-cs/PNBA)]
+
+Yu Zhu, **Chunfeng Song\***, Wanli Ouyang, Shan Yu\*, Tiejun Huang
+
+**Accepted by ICML 2025**
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/arxiv25-mindalign.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
 **MindAligner: Explicit Brain Functional Alignment for Cross-Subject Visual Decoding from Limited fMRI Data**
@@ -41,6 +54,7 @@ Please feel free to contact me via [Email](songchunfeng@pjlab.org.cn) for possib
 
 Yuqin Dai†, Zhouheng Yao†, **Chunfeng Song**, Qihao Zheng, Weijian Mai, Kunyu Peng, Shuai Lu, Wanli Ouyang, Jian Yang\*, Jiamin Wu\*
 
+**Accepted by ICML 2025**
 </div>
 </div>
 
