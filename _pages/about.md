@@ -1,4 +1,4 @@
----
+<img width="474" height="107" alt="image" src="https://github.com/user-attachments/assets/68651858-1564-4011-bf32-d02a1153b490" />---
 permalink: /
 title: ""
 excerpt: ""
@@ -21,9 +21,9 @@ redirect_from:
 Chunfeng Song (宋纯锋) is currently a Research Scientist at [Shanghai AI Laboratory](https://www.shlab.org.cn), working closely with [Prof. Wanli Ouyang](https://wlouyang.github.io). Before that, he was an Associate Professor with the Center for Research on Intelligent Perception and Computing ([CRIPAC](http://www.cripac.ia.ac.cn)), National Laboratory of Pattern Recognition ([NLPR](http://nlpr-web.ia.ac.cn)), Institute of Automation, Chinese Academy of Sciences ([CASIA](http://www.ia.ac.cn)), working with [Prof. Tieniu Tan](http://cripac.ia.ac.cn/CN/column/item83.shtml) and [Prof. Zhaoxiang Zhang](http://zhaoxiangzhang.net). He received the PhD degree from [CASIA](http://www.ia.ac.cn), and the University of Chinese Academy of Sciences ([UCAS](https://www.ucas.ac.cn)) in 2020, under the supervision of [Prof. Liang Wang](http://cripac.ia.ac.cn/CN/column/item127.shtml). He has published more than 50 conference and journal papers such as Nature Communications, IEEE TPAMI, CVPR, NeurIPS, ICML, ICLR. His research focuses on AI for Science, especially **Neuroscience** and **Data-centric Agentic Science**.
 
 # 🔈 Join Us
-Please feel free to contact me via [Email](songchunfeng@pjlab.org.cn) for possible cooperation if you are interested in our projects of **AI4Neuroscience & Data-centric Agentic Science** research!
+We are hiring full-time researchers, PhD students, and interns! Please feel free to contact me via [Email](songchunfeng@pjlab.org.cn) for possible cooperation if you are interested in our projects of **AI4Neuroscience and Data-centric Agentic Science** research!
 
-随时欢迎对**科学智能、数据智能体、神经科学、脑机接口**等方向感兴趣的学者/研究生/本科生/实习生通过[邮件](songchunfeng@pjlab.org.cn)联系交流与合作！
+随时欢迎对**科学智能、数据智能体、神经科学、脑机接口**等方向感兴趣的全职研究员/博士研究生（联培）/实习生通过[邮件](songchunfeng@pjlab.org.cn)联系交流与合作！
 
 
 # 🔥 News
@@ -39,7 +39,7 @@ Please feel free to contact me via [Email](songchunfeng@pjlab.org.cn) for possib
 
 # 📄 Pre-Prints 
 (†Equal contribution, \*Corresponding authors)
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TechReport 2025</div><img src='images/pnba-icml2025.png' width="190" height="90"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TechReport 2025</div><img src='images/copilot.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
 **SciDataCopilot: An Agentic Data Preparation Framework for AGI-driven Scientific Discovery**
 [[Paper](https://arxiv.org/abs/2602.09132)]
@@ -52,11 +52,12 @@ Jiyong Rao†, Yicheng Qiu†, Jiahui Zhang†, Juntao Deng†, Shangquan Sun†
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Survey 2025</div><img src='images/pnba-icml2025.png' width="190" height="90"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Survey 2025</div><img src='images/scillm.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
 **A Survey of Scientific Large Language Models: From Data Foundations to Agent Frontiers**
 [[Paper](https://arxiv.org/abs/2508.21148)]
 [[Project](https://github.com/InternScience/Awesome-Scientific-Datasets-and-LLMs)]
+[[SciDataIndex](https://scidataindex.github.io/index.html)]
 
 Ming Hu, Chenglong Ma, Wei Li, Wanghan Xu, Jiamin Wu, ..., Zongyuan Ge\*, Shixiang Tang\*, Junjun He\*, **Chunfeng Song\***, Lei Bai\*, Bowen Zhou\*
 
@@ -64,7 +65,7 @@ Ming Hu, Chenglong Ma, Wei Li, Wanghan Xu, Jiamin Wu, ..., Zongyuan Ge\*, Shixia
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TechReport 2025 2025</div><img src='images/pnba-icml2025.png' width="190" height="90"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TechReport 2025 2025</div><img src='images/adabrainbench.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
 **AdaBrain-Bench: Benchmarking Brain Foundation Models for Brain-Computer Interface Applications**
 [[Paper](https://arxiv.org/abs/2507.09882)]
@@ -76,7 +77,7 @@ Jiamin Wu†, Zichen Ren†, Junyu Wang, Pengyu Zhu, Yonghao Song, Mianxin Liu, 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TechReport 2025</div><img src='images/pnba-icml2025.png' width="190" height="90"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TechReport 2025</div><img src='images/unmind.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
 **UniMind: Unleashing the Power of LLMs for Unified Multi-Task Brain Decoding**
 [[Paper](https://arxiv.org/abs/2506.18962)]
@@ -102,7 +103,7 @@ Juntao Deng†, Jiamin Wu†, Changmin Chen, Qihao Zheng, Zhaoxiang Zhang, Jingp
 
 # 📝 Selected Publications
 (†Equal contribution, \*Corresponding authors)
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nat. Commun. 2025</div><img src='images/pnba-icml2025.png' width="190" height="90"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nat. Commun. 2025</div><img src='images/cryoaid.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
 **AI-augmented intraoperative decision-making workflows in diffuse midline glioma biopsy using cryosection pathology**
 [[Paper](https://www.nature.com/articles/s41467-025-66853-y)]
@@ -114,7 +115,7 @@ Yifan Yuan, Qi Yue\*, Yining Wang, Zunguo Du, Xingfu Wang, Fang Yan, Haixia Chen
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/pnba-icml2025.png' width="190" height="90"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/synbrain.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
 **SynBrain: Enhancing Visual-to-fMRI Synthesis via Probabilistic Representation Learning**
 [[Paper](https://arxiv.org/abs/2508.10298)]
@@ -275,6 +276,8 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**) 2018
 </div>
 
 # 💬 Invited Talks
+- *2026.01*: 圆桌论坛, [脑机接口产研融合创新论坛](https://mp.weixin.qq.com/s/t10Aj_aPUvoOBDIOfvo0Rg?click_id=4)
+- *2025.09*: Efficient and Friendly AI Tools for Brain Mapping, [2025浦江创新论坛-介观脑图谱国际研讨会](https://mp.weixin.qq.com/s/rs2aY-RuaLTDZ2UzjXOrCQ)
 - *2025.02*: 驱动神经科学的人工智能, [中科院脑智卓越中心AI for Neuroscience Talk](http://www.ion.ac.cn/xwen/zhxw/2025/202502/t20250224_7533334.html)
 - *2025.02*: 大模型在神经科学应用中的进展与挑战, [GDC2025-全球开发者先锋大会](https://mp.weixin.qq.com/s/Tbhb2u9AWuM_gYQsH60HTg)
 - *2018.04*: Mask-guided Contrastive Attention Model for Person Re-Identification, [IGTA Top-Conference Talk](https://cloud.tencent.com/developer/article/1102461)
