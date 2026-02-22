@@ -39,7 +39,7 @@ Please feel free to contact me via [Email](songchunfeng@pjlab.org.cn) for possib
 
 # 📄 Pre-Prints 
 (†Equal contribution, \*Corresponding authors)
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/pnba-icml2025.png' width="190" height="90"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TechReport 2025</div><img src='images/pnba-icml2025.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
 **SciDataCopilot: An Agentic Data Preparation Framework for AGI-driven Scientific Discovery**
 [[Paper](https://arxiv.org/abs/2602.09132)]
@@ -52,7 +52,7 @@ Jiyong Rao†, Yicheng Qiu†, Jiahui Zhang†, Juntao Deng†, Shangquan Sun†
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/pnba-icml2025.png' width="190" height="90"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Survey 2025</div><img src='images/pnba-icml2025.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
 **A Survey of Scientific Large Language Models: From Data Foundations to Agent Frontiers**
 [[Paper](https://arxiv.org/abs/2508.21148)]
@@ -60,11 +60,11 @@ Jiyong Rao†, Yicheng Qiu†, Jiahui Zhang†, Juntao Deng†, Shangquan Sun†
 
 Ming Hu, Chenglong Ma, Wei Li, Wanghan Xu, Jiamin Wu, ..., Zongyuan Ge\*, Shixiang Tang\*, Junjun He\*, **Chunfeng Song\***, Lei Bai\*, Bowen Zhou\*
 
-**Technique Report @ 2025**
+**Survey @ 2025**
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/pnba-icml2025.png' width="190" height="90"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TechReport 2025 2025</div><img src='images/pnba-icml2025.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
 **AdaBrain-Bench: Benchmarking Brain Foundation Models for Brain-Computer Interface Applications**
 [[Paper](https://arxiv.org/abs/2507.09882)]
@@ -76,7 +76,7 @@ Jiamin Wu†, Zichen Ren†, Junyu Wang, Pengyu Zhu, Yonghao Song, Mianxin Liu, 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/pnba-icml2025.png' width="190" height="90"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TechReport 2025</div><img src='images/pnba-icml2025.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
 **UniMind: Unleashing the Power of LLMs for Unified Multi-Task Brain Decoding**
 [[Paper](https://arxiv.org/abs/2506.18962)]
@@ -88,7 +88,7 @@ Weiheng Lu†, **Chunfeng Song†**, Jiamin Wu\*, Pengyu Zhu, Yuchen Zhou, Weiji
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv 2024</div><img src='images/bioxiv24-unispac.png' width="190" height="90"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TechReport 2024</div><img src='images/bioxiv24-unispac.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
 **UniSPAC: A Unified Segmentation Framework for Proofreading and Annotation in Connectomics**
 [[Paper](https://www.biorxiv.org/content/10.1101/2024.11.27.625336v1)]
@@ -102,7 +102,7 @@ Juntao Deng†, Jiamin Wu†, Changmin Chen, Qihao Zheng, Zhaoxiang Zhang, Jingp
 
 # 📝 Selected Publications
 (†Equal contribution, \*Corresponding authors)
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/pnba-icml2025.png' width="190" height="90"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nat. Commun. 2025</div><img src='images/pnba-icml2025.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
 **AI-augmented intraoperative decision-making workflows in diffuse midline glioma biopsy using cryosection pathology**
 [[Paper](https://www.nature.com/articles/s41467-025-66853-y)]
@@ -114,7 +114,19 @@ Yifan Yuan, Qi Yue\*, Yining Wang, Zunguo Du, Xingfu Wang, Fang Yan, Haixia Chen
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/pnba-icml2025.png' width="190" height="90"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/pnba-icml2025.png' width="190" height="90"></div></div>
+<div class='paper-box-text' markdown="1"> 
+**SynBrain: Enhancing Visual-to-fMRI Synthesis via Probabilistic Representation Learning**
+[[Paper](https://arxiv.org/abs/2508.10298)]
+[[Code](https://github.com/MichaelMaiii/SynBrain)]
+
+Weijian Mai, Jiamin Wu\*, Yu Zhu, Zhouheng Yao, Dongzhan Zhou, Andrew F. Luo, Qihao Zheng, Wanli Ouyang, **Chunfeng Song**
+
+The Thirty-ninth Annual Conference on Neural Information Processing Systems (**NeurIPS**) 2025
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/pnba-icml2025.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
 **Neural Representational Consistency Emerges from Probabilistic Neural-Behavioral Representation Alignment**
 [[Paper](https://arxiv.org/abs/2505.04331)]
@@ -126,10 +138,12 @@ Proceedings of the International Conference on Machine Learning  (**ICML**) 2025
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/arxiv25-mindalign.png' width="190" height="90"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/arxiv25-mindalign.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
 **MindAligner: Explicit Brain Functional Alignment for Cross-Subject Visual Decoding from Limited fMRI Data**
 [[Paper](https://arxiv.org/abs/2502.05034)]
+[[Code](https://github.com/Da1yuqin/MindAligner)]
 
 Yuqin Dai†, Zhouheng Yao†, **Chunfeng Song**, Qihao Zheng, Weijian Mai, Kunyu Peng, Shuai Lu, Wanli Ouyang, Jian Yang\*, Jiamin Wu\*
 
@@ -137,10 +151,10 @@ Proceedings of the International Conference on Machine Learning  (**ICML**) 2025
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/arxiv24-neuro3d.png' width="190" height="90"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/arxiv24-neuro3d.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
 **Neuro-3D: Towards 3D Visual Decoding from EEG Signals**
-[[Paper](https://arxiv.org/abs/2411.12248)]
+[[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Guo_Neuro-3D_Towards_3D_Visual_Decoding_from_EEG_Signals_CVPR_2025_paper.pdf)]
 [[Code](https://github.com/gzq17/neuro-3D)]
 [[Dataset](https://huggingface.co/datasets/guozq21/neuro-3D)]
 
