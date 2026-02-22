@@ -18,15 +18,19 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🎓 About Me
-Chunfeng Song (宋纯锋) is currently a Research Scientist at [Shanghai AI Laboratory](https://www.shlab.org.cn), working closely with [Prof. Wanli Ouyang](https://wlouyang.github.io). Before that, he was an Associate Professor with the Center for Research on Intelligent Perception and Computing ([CRIPAC](http://www.cripac.ia.ac.cn)), National Laboratory of Pattern Recognition ([NLPR](http://nlpr-web.ia.ac.cn)), Institute of Automation, Chinese Academy of Sciences ([CASIA](http://www.ia.ac.cn)), working with [Prof. Tieniu Tan](http://cripac.ia.ac.cn/CN/column/item83.shtml) and [Prof. Zhaoxiang Zhang](http://zhaoxiangzhang.net). He received the PhD degree from [CASIA](http://www.ia.ac.cn), and the University of Chinese Academy of Sciences ([UCAS](https://www.ucas.ac.cn)) in 2020, under the supervision of [Prof. Liang Wang](http://cripac.ia.ac.cn/CN/column/item127.shtml). He has published more than 30 conference and journal papers such as IEEE TPAMI, TIP, IJCV, PR, CVPR, ECCV, AAAI. His current research focuses on AI for science, especially Neuroscience and Brain science.
+Chunfeng Song (宋纯锋) is currently a Research Scientist at [Shanghai AI Laboratory](https://www.shlab.org.cn), working closely with [Prof. Wanli Ouyang](https://wlouyang.github.io). Before that, he was an Associate Professor with the Center for Research on Intelligent Perception and Computing ([CRIPAC](http://www.cripac.ia.ac.cn)), National Laboratory of Pattern Recognition ([NLPR](http://nlpr-web.ia.ac.cn)), Institute of Automation, Chinese Academy of Sciences ([CASIA](http://www.ia.ac.cn)), working with [Prof. Tieniu Tan](http://cripac.ia.ac.cn/CN/column/item83.shtml) and [Prof. Zhaoxiang Zhang](http://zhaoxiangzhang.net). He received the PhD degree from [CASIA](http://www.ia.ac.cn), and the University of Chinese Academy of Sciences ([UCAS](https://www.ucas.ac.cn)) in 2020, under the supervision of [Prof. Liang Wang](http://cripac.ia.ac.cn/CN/column/item127.shtml). He has published more than 50 conference and journal papers such as Nature Communications, IEEE TPAMI, CVPR, NeurIPS, ICML, ICLR. His research focuses on AI for science, especially Neuroscience and Data-centric Agentic Science.
 
 # 🔈 Join Us
-Please feel free to contact me via [Email](songchunfeng@pjlab.org.cn) for possible cooperation if you are interested in our projects or **AI4Neuroscience** research!
+Please feel free to contact me via [Email](songchunfeng@pjlab.org.cn) for possible cooperation if you are interested in our projects of **AI4Neuroscience & Data-centric Agentic Science** research!
 
-随时欢迎对**科学智能、神经科学、脑机接口**等方向感兴趣的学者/研究生/本科生/实习生通过[邮件](songchunfeng@pjlab.org.cn)联系交流与合作！
+随时欢迎对**科学智能、数据智能体、神经科学、脑机接口**等方向感兴趣的学者/研究生/本科生/实习生通过[邮件](songchunfeng@pjlab.org.cn)联系交流与合作！
 
 
 # 🔥 News
+- *2026.02*: &nbsp; Two paper accepted by **CVPR-2026**.
+- *2026.01*: &nbsp; One paper accepted by **ICLR-2026**.
+- *2025.12*: &nbsp; One paper accepted by **Nature Communications**.
+- *2025.09*: &nbsp; Two paper accepted by **NeurIPS-2025**.
 - *2025.05*: &nbsp; Two paper accepted by **ICML-2025**.
 - *2025.02*: &nbsp; One paper accepted by **CVPR-2025**.
 - *2024.12*: &nbsp; One paper accepted by **AAAI-2025**.
@@ -37,13 +41,28 @@ Please feel free to contact me via [Email](songchunfeng@pjlab.org.cn) for possib
 (†Equal contribution, \*Corresponding authors)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/pnba-icml2025.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
+**SciDataCopilot: An Agentic Data Preparation Framework for AGI-driven Scientific Discovery**
+[[Paper](https://arxiv.org/abs/2602.09132)]
+[[Code](https://github.com/InternScience/SciDataCopilot)]
+[[Project](https://scidatacopilot.github.io/SciDataCopilot-project/)]
+
+Jiyong Rao†, Yicheng Qiu†, Jiahui Zhang†, Juntao Deng†, Shangquan Sun†, ..., Runkai Zhao\*, **Chunfeng Song\***, Lei Bai\*, Chi Zhang\*
+
+**Technique Report @ 2026**
+</div>
+</div>
+
+# 📝 Selected Publications
+(†Equal contribution, \*Corresponding authors)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/pnba-icml2025.png' width="190" height="90"></div></div>
+<div class='paper-box-text' markdown="1"> 
 **Neural Representational Consistency Emerges from Probabilistic Neural-Behavioral Representation Alignment**
 [[Paper](https://arxiv.org/abs/2505.04331)]
 [[Code](https://github.com/zhuyu-cs/PNBA)]
 
 Yu Zhu, **Chunfeng Song\***, Wanli Ouyang, Shan Yu\*, Tiejun Huang
 
-**Accepted by ICML 2025**
+Proceedings of the International Conference on Machine Learning  (**ICML**) 2025
 </div>
 </div>
 
@@ -54,7 +73,7 @@ Yu Zhu, **Chunfeng Song\***, Wanli Ouyang, Shan Yu\*, Tiejun Huang
 
 Yuqin Dai†, Zhouheng Yao†, **Chunfeng Song**, Qihao Zheng, Weijian Mai, Kunyu Peng, Shuai Lu, Wanli Ouyang, Jian Yang\*, Jiamin Wu\*
 
-**Accepted by ICML 2025**
+Proceedings of the International Conference on Machine Learning  (**ICML**) 2025
 </div>
 </div>
 
@@ -78,12 +97,12 @@ Juntao Deng†, Jiamin Wu†, Changmin Chen, Qihao Zheng, Zhaoxiang Zhang, Jingp
 
 Zhanqiang Guo†, Jiamin Wu†, Yonghao Song, Weijian Mai, Qihao Zheng, Wanli Ouyang\*, **Chunfeng Song\***
 
-**Accepted by CVPR 2025**
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**) 2025
 </div>
 </div>
 
-# 📝 Selected Publications
-(†Equal contribution, \*Corresponding authors)
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI ORAL 2025</div><img src='images/aaai25-mivae.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
 **Multi-Modal Latent Variables for Cross-Individual Primary Visual Cortex Modeling and Analysis**
