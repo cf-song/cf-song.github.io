@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🎓 About Me
-Chunfeng Song (宋纯锋) is currently a Research Scientist at [Shanghai AI Laboratory](https://www.shlab.org.cn), working closely with [Prof. Wanli Ouyang](https://wlouyang.github.io). Before that, he was an Associate Professor with the Center for Research on Intelligent Perception and Computing ([CRIPAC](http://www.cripac.ia.ac.cn)), National Laboratory of Pattern Recognition ([NLPR](http://nlpr-web.ia.ac.cn)), Institute of Automation, Chinese Academy of Sciences ([CASIA](http://www.ia.ac.cn)), working with [Prof. Tieniu Tan](http://cripac.ia.ac.cn/CN/column/item83.shtml) and [Prof. Zhaoxiang Zhang](http://zhaoxiangzhang.net). He received the PhD degree from [CASIA](http://www.ia.ac.cn), and the University of Chinese Academy of Sciences ([UCAS](https://www.ucas.ac.cn)) in 2020, under the supervision of [Prof. Liang Wang](http://cripac.ia.ac.cn/CN/column/item127.shtml). He has published more than 50 conference and journal papers such as Nature Communications, IEEE TPAMI, CVPR, NeurIPS, ICML, ICLR. His research focuses on AI for science, especially Neuroscience and Data-centric Agentic Science.
+Chunfeng Song (宋纯锋) is currently a Research Scientist at [Shanghai AI Laboratory](https://www.shlab.org.cn), working closely with [Prof. Wanli Ouyang](https://wlouyang.github.io). Before that, he was an Associate Professor with the Center for Research on Intelligent Perception and Computing ([CRIPAC](http://www.cripac.ia.ac.cn)), National Laboratory of Pattern Recognition ([NLPR](http://nlpr-web.ia.ac.cn)), Institute of Automation, Chinese Academy of Sciences ([CASIA](http://www.ia.ac.cn)), working with [Prof. Tieniu Tan](http://cripac.ia.ac.cn/CN/column/item83.shtml) and [Prof. Zhaoxiang Zhang](http://zhaoxiangzhang.net). He received the PhD degree from [CASIA](http://www.ia.ac.cn), and the University of Chinese Academy of Sciences ([UCAS](https://www.ucas.ac.cn)) in 2020, under the supervision of [Prof. Liang Wang](http://cripac.ia.ac.cn/CN/column/item127.shtml). He has published more than 50 conference and journal papers such as Nature Communications, IEEE TPAMI, CVPR, NeurIPS, ICML, ICLR. His research focuses on AI for Science, especially **Neuroscience** and **Data-centric Agentic Science**.
 
 # 🔈 Join Us
 Please feel free to contact me via [Email](songchunfeng@pjlab.org.cn) for possible cooperation if you are interested in our projects of **AI4Neuroscience & Data-centric Agentic Science** research!
@@ -27,11 +27,11 @@ Please feel free to contact me via [Email](songchunfeng@pjlab.org.cn) for possib
 
 
 # 🔥 News
-- *2026.02*: &nbsp; Two paper accepted by **CVPR-2026**.
+- *2026.02*: &nbsp; Two papers accepted by **CVPR-2026**.
 - *2026.01*: &nbsp; One paper accepted by **ICLR-2026**.
 - *2025.12*: &nbsp; One paper accepted by **Nature Communications**.
-- *2025.09*: &nbsp; Two paper accepted by **NeurIPS-2025**.
-- *2025.05*: &nbsp; Two paper accepted by **ICML-2025**.
+- *2025.09*: &nbsp; Three papers accepted by **NeurIPS-2025**.
+- *2025.05*: &nbsp; Two papers accepted by **ICML-2025**.
 - *2025.02*: &nbsp; One paper accepted by **CVPR-2025**.
 - *2024.12*: &nbsp; One paper accepted by **AAAI-2025**.
 - *2023.07*: &nbsp; One paper accepted by **IEEE TPAMI**.
@@ -52,8 +52,68 @@ Jiyong Rao†, Yicheng Qiu†, Jiahui Zhang†, Juntao Deng†, Shangquan Sun†
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/pnba-icml2025.png' width="190" height="90"></div></div>
+<div class='paper-box-text' markdown="1"> 
+**A Survey of Scientific Large Language Models: From Data Foundations to Agent Frontiers**
+[[Paper](https://arxiv.org/abs/2508.21148)]
+[[Project](https://github.com/InternScience/Awesome-Scientific-Datasets-and-LLMs)]
+
+Ming Hu, Chenglong Ma, Wei Li, Wanghan Xu, Jiamin Wu, ..., Zongyuan Ge\*, Shixiang Tang\*, Junjun He\*, **Chunfeng Song\***, Lei Bai\*, Bowen Zhou\*
+
+**Technique Report @ 2025**
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/pnba-icml2025.png' width="190" height="90"></div></div>
+<div class='paper-box-text' markdown="1"> 
+**AdaBrain-Bench: Benchmarking Brain Foundation Models for Brain-Computer Interface Applications**
+[[Paper](https://arxiv.org/abs/2507.09882)]
+[[Code](https://github.com/Jamine-W/AdaBrain-Bench)]
+
+Jiamin Wu†, Zichen Ren†, Junyu Wang, Pengyu Zhu, Yonghao Song, Mianxin Liu, Qihao Zheng, Lei Bai, Wanli Ouyang\*, **Chunfeng Song\***
+
+**Technique Report @ 2025**
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/pnba-icml2025.png' width="190" height="90"></div></div>
+<div class='paper-box-text' markdown="1"> 
+**UniMind: Unleashing the Power of LLMs for Unified Multi-Task Brain Decoding**
+[[Paper](https://arxiv.org/abs/2506.18962)]
+
+Weiheng Lu†, **Chunfeng Song†**, Jiamin Wu\*, Pengyu Zhu, Yuchen Zhou, Weijian Mai, Qihao Zheng, Wanli Ouyang
+
+**Technique Report @ 2025**
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv 2024</div><img src='images/bioxiv24-unispac.png' width="190" height="90"></div></div>
+<div class='paper-box-text' markdown="1"> 
+**UniSPAC: A Unified Segmentation Framework for Proofreading and Annotation in Connectomics**
+[[Paper](https://www.biorxiv.org/content/10.1101/2024.11.27.625336v1)]
+[[Code](https://github.com/ddd9898/UniSPAC)]
+
+Juntao Deng†, Jiamin Wu†, Changmin Chen, Qihao Zheng, Zhaoxiang Zhang, Jingpeng Wu\*, Wanli Ouyang\*, **Chunfeng Song\***
+
+**Technique Report @ 2024**
+</div>
+</div>
+
 # 📝 Selected Publications
 (†Equal contribution, \*Corresponding authors)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/pnba-icml2025.png' width="190" height="90"></div></div>
+<div class='paper-box-text' markdown="1"> 
+**AI-augmented intraoperative decision-making workflows in diffuse midline glioma biopsy using cryosection pathology**
+[[Paper](https://www.nature.com/articles/s41467-025-66853-y)]
+[[Code](https://github.com/MianxinLiu/CryoAID)]
+
+Yifan Yuan, Qi Yue\*, Yining Wang, Zunguo Du, Xingfu Wang, Fang Yan, Haixia Cheng, Kaitao Chen, Zanyi Wu, Jianping Song, **Chunfeng Song**, Lei Bai, Mu Zhou\*, Mianxin Liu\*, Ying Mao\*
+
+**Nature Communications** 2025
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/pnba-icml2025.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
 **Neural Representational Consistency Emerges from Probabilistic Neural-Behavioral Representation Alignment**
@@ -74,17 +134,6 @@ Proceedings of the International Conference on Machine Learning  (**ICML**) 2025
 Yuqin Dai†, Zhouheng Yao†, **Chunfeng Song**, Qihao Zheng, Weijian Mai, Kunyu Peng, Shuai Lu, Wanli Ouyang, Jian Yang\*, Jiamin Wu\*
 
 Proceedings of the International Conference on Machine Learning  (**ICML**) 2025
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv 2024</div><img src='images/bioxiv24-unispac.png' width="190" height="90"></div></div>
-<div class='paper-box-text' markdown="1"> 
-**UniSPAC: A Unified Segmentation Framework for Proofreading and Annotation in Connectomics**
-[[Paper](https://www.biorxiv.org/content/10.1101/2024.11.27.625336v1)]
-[[Code](https://github.com/ddd9898/UniSPAC)]
-
-Juntao Deng†, Jiamin Wu†, Changmin Chen, Qihao Zheng, Zhaoxiang Zhang, Jingpeng Wu\*, Wanli Ouyang\*, **Chunfeng Song\***
-
 </div>
 </div>
 
