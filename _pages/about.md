@@ -39,7 +39,7 @@ We are hiring full-time researchers, PhD students, and interns! Please feel free
 
 # 📄 Pre-Prints 
 (†Equal contribution, \*Corresponding authors)
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TechReport 2025</div><img src='images/copilot.png' width="190" height="90"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TechReport 2026</div><img src='images/copilot.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
 **SciDataCopilot: An Agentic Data Preparation Framework for AGI-driven Scientific Discovery**
 [[Paper](https://arxiv.org/abs/2602.09132)]
@@ -65,7 +65,7 @@ Ming Hu, Chenglong Ma, Wei Li, Wanghan Xu, Jiamin Wu, ..., Zongyuan Ge\*, Shixia
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TechReport 2025 2025</div><img src='images/adabrainbench.png' width="190" height="90"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TechReport 2025</div><img src='images/adabrainbench.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
 **AdaBrain-Bench: Benchmarking Brain Foundation Models for Brain-Computer Interface Applications**
 [[Paper](https://arxiv.org/abs/2507.09882)]
