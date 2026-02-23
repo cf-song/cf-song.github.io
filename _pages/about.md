@@ -48,7 +48,7 @@ We are hiring full-time researchers, PhD students, and interns! Please feel free
 
 Jiyong Rao†, Yicheng Qiu†, Jiahui Zhang†, Juntao Deng†, Shangquan Sun†, ..., Runkai Zhao\*, **Chunfeng Song\***, Lei Bai\*, Chi Zhang\*
 
-**Technique Report @ 2026**
+**Technical Report @ 2026**
 </div>
 </div>
 
@@ -73,7 +73,7 @@ Ming Hu, Chenglong Ma, Wei Li, Wanghan Xu, Jiamin Wu, ..., Zongyuan Ge\*, Shixia
 
 Jiamin Wu†, Zichen Ren†, Junyu Wang, Pengyu Zhu, Yonghao Song, Mianxin Liu, Qihao Zheng, Lei Bai, Wanli Ouyang\*, **Chunfeng Song\***
 
-**Technique Report @ 2025**
+**Technical Report @ 2025**
 </div>
 </div>
 
@@ -84,7 +84,7 @@ Jiamin Wu†, Zichen Ren†, Junyu Wang, Pengyu Zhu, Yonghao Song, Mianxin Liu, 
 
 Weiheng Lu†, **Chunfeng Song†**, Jiamin Wu\*, Pengyu Zhu, Yuchen Zhou, Weijian Mai, Qihao Zheng, Wanli Ouyang
 
-**Technique Report @ 2025**
+**Technical Report @ 2025**
 </div>
 </div>
 
@@ -97,7 +97,7 @@ Weiheng Lu†, **Chunfeng Song†**, Jiamin Wu\*, Pengyu Zhu, Yuchen Zhou, Weiji
 
 Juntao Deng†, Jiamin Wu†, Changmin Chen, Qihao Zheng, Zhaoxiang Zhang, Jingpeng Wu\*, Wanli Ouyang\*, **Chunfeng Song\***
 
-**Technique Report @ 2024**
+**Technical Report @ 2024**
 </div>
 </div>
 
