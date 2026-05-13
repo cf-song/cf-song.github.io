@@ -85,7 +85,7 @@ Jiamin Wu†, Zichen Ren†, Junyu Wang, Pengyu Zhu, Yonghao Song, Mianxin Liu, 
 [[Code](https://github.com/kaleidoyao/UniMind)]
 [[Project](https://kaleidoyao.github.io/UniMind-project)]
 
-Weiheng Lu†, **Chunfeng Song†**, Jiamin Wu\*, Pengyu Zhu, Yuchen Zhou, Weijian Mai, Qihao Zheng, Wanli Ouyang
+Weiheng Lu†, Zhouheng Yao†, Jiamin Wu\*, Pengyu Zhu, Yuchen Zhou, Weijian Mai, Qihao Zheng, Wanli Ouyang, **Chunfeng Song**
 
 **Technical Report @ 2025**
 </div>
