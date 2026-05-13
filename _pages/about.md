@@ -27,6 +27,7 @@ We are hiring full-time researchers, PhD students, and interns! Please feel free
 
 
 # 🔥 News
+- *2026.05*: &nbsp; Two papers accepted by **ICML-2026**.
 - *2026.02*: &nbsp; Two papers accepted by **CVPR-2026**.
 - *2026.01*: &nbsp; One paper accepted by **ICLR-2026**.
 - *2025.12*: &nbsp; One paper accepted by **Nature Communications**.
